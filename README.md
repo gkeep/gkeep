@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📃 Maintainer of Russian translations for [Zebra](https://getzbra.com/), [Nougat](https://chariz.com/buy/nougat), [Sileo](https://getsileo.app/), Snowboard and [Starship](https://starship.rs/)
+
+- 🔭 Contributor to [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status), [iceberg.vim](https://github.com/cocopon/iceberg.vim) and [Zebra](https://github.com/wstyres/Zebra)
+
+- 💣 Fun side-projects: [iceberg-dark](https://github.com/gkeep/iceberg-dark) and [term-notes](https://github.com/gkeep/term-notes) (coming soon™)
